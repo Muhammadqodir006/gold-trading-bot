@@ -1,0 +1,7 @@
+yfinance
+pandas
+matplotlib
+ta
+python-telegram-bot
+apscheduler
+nest_asyncio
