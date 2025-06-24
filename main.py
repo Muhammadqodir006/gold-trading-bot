@@ -12,8 +12,8 @@ import nest_asyncio
 
 nest_asyncio.apply()
 
-BOT_TOKEN = "BOT_TOKEN_YERGA_YOZING"
-CHAT_ID = CHAT_ID_YERGA_YOZING  # raqam bo'lishi kerak, qo‘shtirnoqsiz
+BOT_TOKEN = "7163962151:AAGMX3LRsZU0t28yKl1bn6dzWTkE5YP2R_c"
+CHAT_ID = "5646357077" # raqam bo'lishi kerak, qo‘shtirnoqsiz
 
 bot = Bot(token=BOT_TOKEN)
 
